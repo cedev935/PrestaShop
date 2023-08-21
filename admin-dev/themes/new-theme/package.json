@@ -16,7 +16,7 @@
     "bootstrap-tokenfield": "^0.12.0",
     "bourbon": "^4.2.6",
     "compass": "^0.1.1",
-    "dropzone": "^5.5.1",
+    "dropzone": "^5.9.3",
     "eonasdan-bootstrap-datetimepicker": "^4.17.47",
     "fos-routing": "0.0.6",
     "jets": "0.11.0",
