@@ -48,7 +48,7 @@
     "mocha": "^7.2.0",
     "mochawesome": "^2.3.0",
     "module-alias": "^2.2.2",
-    "pdfjs-dist": "^2.3.200",
+    "pdfjs-dist": "^2.16.105",
     "playwright": "1.8.1"
   },
   "devDependencies": {
