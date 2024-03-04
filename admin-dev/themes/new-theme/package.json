@@ -25,7 +25,7 @@
     "lodash": "^4.17.21",
     "lodash.escaperegexp": "^4.1.2",
     "magnific-popup": "^1.1.0",
-    "mobile-detect": "^1.4.3",
+    "mobile-detect": "^1.4.5",
     "moment": "^2.30.1",
     "perfect-scrollbar": "^1.4.0",
     "punycode": "^2.3.1",
