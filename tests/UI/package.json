@@ -44,7 +44,7 @@
     "chai-string": "^1.5.0",
     "eslint-config-prestashop": "0.2.1",
     "faker": "^4.1.0",
-    "js-image-generator": "^1.0.2",
+    "js-image-generator": "^1.0.4",
     "mocha": "^7.2.0",
     "mochawesome": "^2.3.0",
     "module-alias": "^2.2.3",
