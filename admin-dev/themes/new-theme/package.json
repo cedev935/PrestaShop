@@ -31,7 +31,7 @@
     "punycode": "^2.3.1",
     "sprintf-js": "^1.1.2",
     "tablednd": "^1.0.5",
-    "tether": "^1.4.6",
+    "tether": "^1.4.7",
     "typeahead.js": "^0.11.1",
     "url-polyfill": "^1.1.3",
     "vue": "^3.4.18",
